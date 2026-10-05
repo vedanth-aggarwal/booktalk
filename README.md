@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Bookify
+# 📚 BookTalk
 
 **Talk to your books.** Upload any PDF and have a real-time voice conversation with an AI that has actually read it.
 
